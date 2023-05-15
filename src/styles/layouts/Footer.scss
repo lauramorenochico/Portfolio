@@ -1,0 +1,21 @@
+.footer{
+background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
+    //position: relative;
+    //padding: 0 20px -20pz -15px;
+
+
+        &__text {
+        font-size: 20px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Ysabeau',
+            sans-serif;
+        
+    }
+}

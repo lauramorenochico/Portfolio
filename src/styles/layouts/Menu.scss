@@ -1,0 +1,60 @@
+.menu {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 1;
+   
+
+    &__list {
+        display: flex;
+        gap: 10px;            
+        list-style: none;
+        color: white;
+        padding-right: 80px;
+        font-size: 25px;       
+    }
+
+    &__text{
+        font-size: 25px;
+        text-decoration: none;
+        color: white;
+         font-family: 'Ysabeau',
+        sans-serif;
+        cursor: pointer;
+    }
+        
+
+    &__link {
+       
+        text-decoration: none;
+        //color: rgb(0, 0, 0);
+        transition: .3s linear, background-size .3s .2s linear;
+        --c: linear-gradient(#d7d7d7 0 0);
+            /* update the color here */
+        
+            padding-bottom: .15em;
+            background: var(--c), var(--c);
+            background-size: .3em .1em;
+            background-position: 50% 100%;
+            background-repeat: no-repeat;
+            transition: .3s linear, background-size .3s .2s linear;
+    }
+        &__link:hover {
+            background-size: 40% .1em;
+            background-position: 10% 100%, 90% 100%;
+        }
+
+    &__img {
+       width: 200px;
+       padding-left: 50px;  
+        
+        }
+}

@@ -1,0 +1,63 @@
+
+
+
+ [
+    {
+      "id":"1",
+    "title": "Cocktail Finder   ",
+    "subtitle": "Javascript, HTML, CSS",
+    "description":
+      "El desafío era crear un buscador de cócteles basado en una API que nos proporcionaron.",
+    "image": "coctel",
+    "link": "https://lauramorenochico.github.io/Cocktail-Finder/"
+  },
+  {
+    "id":"2",
+    "title": "Harry Potter Character ",
+    "subtitle": "React, HTML, SCSS",
+    "description":
+      "Buscador de personajes de Harry Potter. Si queremos saber más información sobre el personaje, podemos seleccionarlo y ampliar la información",
+    "image":"harry",
+   "link": "https://lauramorenochico.github.io/Harry-Potter-Characters/"
+
+  },
+  {
+    "id":"3",
+    "title": "Guess the number ",
+   "subtitle": "Javascript, HTML, CSS",
+   "description":
+   "Consiste en un juego de adivinar un número aleatorio entre 1 y 100 elegido por la computadora que te dará pistas.",
+    "image": "number",
+    "link": "https://lauramorenochico.github.io/Guess-the-number/"
+
+  },
+  {
+    "id":"4",
+   "title": "Awseome Cards ",
+    "subtitle": "Javascript, HTML, CSS",
+    "description":
+   "Una aplicación web que permite crear una tarjeta de visita personalizada. Permite al usuario compartir la tarjeta por twitter con el enlace que se genera al crearla",
+    "image": "awesome",
+   "link": "http://beta.adalab.es/project-promo-s-module-2-team-1/"
+  },
+  {
+    "id":"5",
+   "title": "Game of Thrones Character ",
+    "subtitle": "React, HTML, SCSS",
+    "description":
+   "El ejercicio era crear un buscador de personajes de Juego de Tronos. Puedes añadirte como un personaje más de Westeros",
+    "image": "juego"
+    
+  },
+  {
+    "id":"6",
+   "title": "Simon game",
+    "subtitle": "Javascript, HTML, CSS",
+    "description":"",
+    "image": "simon"
+    
+  }
+]
+
+
+

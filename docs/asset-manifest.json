@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.50ff0f51.chunk.css",
-    "main.js": "./static/js/main.8cccc228.chunk.js",
-    "main.js.map": "./static/js/main.8cccc228.chunk.js.map",
+    "main.js": "./static/js/main.3f56623d.chunk.js",
+    "main.js.map": "./static/js/main.3f56623d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.768d40df.js",
     "runtime-main.js.map": "./static/js/runtime-main.768d40df.js.map",
     "static/js/2.88b99162.chunk.js": "./static/js/2.88b99162.chunk.js",
@@ -11,21 +11,21 @@
     "static/css/main.50ff0f51.chunk.css.map": "./static/css/main.50ff0f51.chunk.css.map",
     "static/js/2.88b99162.chunk.js.LICENSE.txt": "./static/js/2.88b99162.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/833-removebg-preview.6e911d10.png",
-    "static/media/card.PNG": "./static/media/card.d950dab8.PNG",
-    "static/media/coctel.jpg": "./static/media/coctel.1d6ebfe9.jpg",
+    "static/media/card.d950dab8.PNG": "./static/media/card.d950dab8.PNG",
+    "static/media/coctel.1d6ebfe9.jpg": "./static/media/coctel.1d6ebfe9.jpg",
     "static/media/cv.6c63c444.jpg": "./static/media/cv.6c63c444.jpg",
-    "static/media/guessnumber.jpg": "./static/media/guessnumber.ccb15590.jpg",
-    "static/media/juego.jpg": "./static/media/juego.59a553cc.jpg",
+    "static/media/guessnumber.ccb15590.jpg": "./static/media/guessnumber.ccb15590.jpg",
+    "static/media/juego.59a553cc.jpg": "./static/media/juego.59a553cc.jpg",
     "static/media/logodef.3652a1ad.png": "./static/media/logodef.3652a1ad.png",
-    "static/media/mago.jpg": "./static/media/mago.631e31c9.jpg",
+    "static/media/mago.631e31c9.jpg": "./static/media/mago.631e31c9.jpg",
     "static/media/marga.34e5b4df.jpg": "./static/media/marga.34e5b4df.jpg",
     "static/media/me.711a106d.jpg": "./static/media/me.711a106d.jpg",
-    "static/media/simon.png": "./static/media/simon.89380c2b.png"
+    "static/media/simon.89380c2b.png": "./static/media/simon.89380c2b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.768d40df.js",
     "static/js/2.88b99162.chunk.js",
     "static/css/main.50ff0f51.chunk.css",
-    "static/js/main.8cccc228.chunk.js"
+    "static/js/main.3f56623d.chunk.js"
   ]
 }
